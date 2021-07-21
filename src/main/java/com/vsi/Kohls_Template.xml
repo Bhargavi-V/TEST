@@ -1,0 +1,59 @@
+<Order Currency="USD" CustomerPONo="" DocumentType="0001" EnterpriseCode="KOHLS" EntryType="WHOLESALE" OrderDate=""
+OrderType="WHOLESALE" SellerOrganizationCode="KOHLS">
+<PersonInfoBillTo AddressID="" FirstName="Kohl’s Department Stores" AddressLine1="Accounts Payable Department" AddressLine2="PO Box 1019"
+City="Hartford" Country="US" State="CT" ZipCode="06143" />
+<PersonInfoShipTo AddressID="810" AddressLine1="7855 COUNTY ROAD 140" City="FINDLAY" Country="US" FirstName="FINDLAY"
+IsAddressVerified="Y" State="OH" ZipCode="45840">
+</PersonInfoShipTo>
+<Extn ExtnDTCOrder="Y" ExtnIsGuestCheckout="N" ExtnIsTaxCalculated="Y" Type="WHOLESALE" ExtnDepartmentID="086" />
+<OrderLines>
+<OrderLine CarrierServiceCode="STANDARD" DeliveryMethod="SHP" OrderedQty="40.0">
+<Extn ExtendedDescription="Magnesium Citrate-None-10" ExtnShipNotBeforeDate="" ExtnReqCancelDate="" />
+<Item ItemID="" ProductClass="GOOD" UnitOfMeasure="EACH" UPCCode="766536019762" />
+<PersonInfoShipTo AddressID="810" AddressLine1="7855 COUNTY ROAD 140" City="FINDLAY" Country="US" FirstName="FINDLAY" IsAddressVerified="Y"
+State="OH" ZipCode="45840">
+<Extn ExtnMarkForStoreNo="00107" />
+</PersonInfoShipTo>
+<PersonInfoMarkFor AddressID="00107" AddressLine1="FAIRFIELD CROSSING" City="INDIANAPOLIS" Country="US" FirstName="Geist" State="IL" ZipCode="46033">
+<Extn />
+</PersonInfoMarkFor>
+<LinePriceInfo UnitPrice="60.00" />
+</OrderLine>
+<OrderLine CarrierServiceCode="STANDARD" DeliveryMethod="SHP" OrderedQty="80.0">
+<Extn ExtendedDescription="Magnesium Citrate-None-10" ExtnShipNotBeforeDate="" ExtnReqCancelDate="" />
+<Item ItemID="" ProductClass="GOOD" UnitOfMeasure="EACH" UPCCode="766536038190" />
+<PersonInfoShipTo AddressID="810" AddressLine1="7855 COUNTY ROAD 140" City="FINDLAY" Country="US" FirstName="FINDLAY" IsAddressVerified="Y"
+State="OH" ZipCode="45840">
+<Extn ExtnMarkForStoreNo="00107" />
+</PersonInfoShipTo>
+<PersonInfoMarkFor AddressID="00107" AddressLine1="FAIRFIELD CROSSING" City="INDIANAPOLIS" Country="US" FirstName="Geist" State="IL" ZipCode="46033">
+<Extn />
+</PersonInfoMarkFor>
+<LinePriceInfo UnitPrice="60.00" />
+</OrderLine>
+<OrderLine CarrierServiceCode="STANDARD" DeliveryMethod="SHP" OrderedQty="60.0">
+<Extn ExtendedDescription="Magnesium Citrate-None-10" ExtnShipNotBeforeDate="" ExtnReqCancelDate="" />
+<Item ItemID="" ProductClass="GOOD" UnitOfMeasure="EACH" UPCCode="16185129580" />
+<PersonInfoShipTo AddressID="810" AddressLine1="7855 COUNTY ROAD 140" City="FINDLAY" Country="US" FirstName="FINDLAY" IsAddressVerified="Y"
+State="OH" ZipCode="45840">
+<Extn ExtnMarkForStoreNo="00107" />
+</PersonInfoShipTo>
+<PersonInfoMarkFor AddressID="00107" AddressLine1="FAIRFIELD CROSSING" City="INDIANAPOLIS" Country="US" FirstName="Geist" State="IL" ZipCode="46033">
+<Extn />
+</PersonInfoMarkFor>
+<LinePriceInfo UnitPrice="60.00" />
+</OrderLine>
+<OrderLine CarrierServiceCode="STANDARD" DeliveryMethod="SHP" OrderedQty="50.0">
+<Extn ExtendedDescription="Magnesium Citrate-None-10" ExtnShipNotBeforeDate="" ExtnReqCancelDate="" />
+<Item ItemID="" ProductClass="GOOD" UnitOfMeasure="EACH" UPCCode="766536013623" />
+<PersonInfoShipTo AddressID="810" AddressLine1="7855 COUNTY ROAD 140" City="FINDLAY" Country="US" FirstName="FINDLAY" IsAddressVerified="Y"
+State="OH" ZipCode="45840">
+<Extn ExtnMarkForStoreNo="00107" />
+</PersonInfoShipTo>
+<PersonInfoMarkFor AddressID="00107" AddressLine1="FAIRFIELD CROSSING" City="INDIANAPOLIS" Country="US" FirstName="Geist" State="IL" ZipCode="46033">
+<Extn />
+</PersonInfoMarkFor>
+<LinePriceInfo UnitPrice="60.00" />
+</OrderLine>
+</OrderLines>
+</Order>
