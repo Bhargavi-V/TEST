@@ -1,0 +1,49 @@
+<Order Currency="USD" CustomerPONo="" DocumentType="0001" EnterpriseCode="BELK" EntryType="WHOLESALE" OrderDate="" 
+OrderType="WHOLESALE" SellerOrganizationCode="BELK">
+    <Extn ExtnDTCOrder="Y" ExtnIsGuestCheckout="N" ExtnIsTaxCalculated="Y" Type="WHOLESALE" ExtnDepartmentID="086"/>
+    <PersonInfoBillTo AddressLine1="120 Belk Court" City="Blythewood" Country="US" FirstName="Belk Accounts Payable DC 737" State="SC" 
+    ZipCode="29016"/>
+    <PersonInfoShipTo AddressID="1737" AddressLine1="120 Belk Court" City="Blythewood" Country="US" FirstName="Belk 1737 Distribution Center" 
+    State="SC" ZipCode="29016">
+    </PersonInfoShipTo>
+    <OrderLines>
+    <OrderLine CarrierServiceCode="STANDARD" DeliveryMethod="SHP" OrderedQty="20">
+            <Extn ExtendedDescription="Ultimate 10+ 20 Billion-N" ExtnShipNotBeforeDate="" ExtnReqCancelDate=""/>
+            <Item ItemID="" ProductClass="GOOD" UnitOfMeasure="EACH" UPCCode="766536038190"/>
+            <PersonInfoShipTo AddressID="1737" AddressLine1="120 Belk Court" City="Blythewood" Country="US" FirstName="Belk 1737 Distribution Center" 
+            State="SC" ZipCode="29016">
+                <Extn ExtnMarkForStoreNo="00006"/>
+            </PersonInfoShipTo>
+            <LinePriceInfo UnitPrice="11.00"/>
+        </OrderLine>
+      <OrderLine CarrierServiceCode="STANDARD" DeliveryMethod="SHP" OrderedQty="60">
+            <Extn ExtendedDescription="Ultimate 10+ 20 Billion-N" ExtnShipNotBeforeDate="" ExtnReqCancelDate=""/>
+            <Item ItemID="" ProductClass="GOOD" UnitOfMeasure="EACH" UPCCode="16185129580"/>
+            <PersonInfoShipTo AddressID="1737" AddressLine1="120 Belk Court" City="Blythewood" Country="US" FirstName="Belk 1737 Distribution Center" 
+            State="SC" ZipCode="29016">
+                <Extn ExtnMarkForStoreNo="00006"/>
+            </PersonInfoShipTo>
+            <LinePriceInfo UnitPrice="15.00"/>
+        </OrderLine>
+	  <OrderLine CarrierServiceCode="STANDARD" DeliveryMethod="SHP" OrderedQty="70">
+            <Extn ExtendedDescription="Ultimate 10+ 20 Billion-N" ExtnShipNotBeforeDate="" ExtnReqCancelDate=""/>
+            <Item ItemID="" ProductClass="GOOD" UnitOfMeasure="EACH" UPCCode="766536013623"/>
+            <PersonInfoShipTo AddressID="1737" AddressLine1="120 Belk Court" City="Blythewood" Country="US" FirstName="Belk 1737 Distribution Center" 
+            State="SC" ZipCode="29016">
+                <Extn ExtnMarkForStoreNo="00006"/>
+            </PersonInfoShipTo>
+            <LinePriceInfo UnitPrice="30.00"/>
+        </OrderLine>
+	   <OrderLine CarrierServiceCode="STANDARD" DeliveryMethod="SHP" OrderedQty="80">
+            <Extn ExtendedDescription="Ultimate 10+ 20 Billion-N" ExtnShipNotBeforeDate="" ExtnReqCancelDate=""/>
+            <Item ItemID="" ProductClass="GOOD" UnitOfMeasure="EACH" UPCCode="766536013814"/>
+            <PersonInfoShipTo AddressID="1737" AddressLine1="120 Belk Court" City="Blythewood" Country="US" FirstName="Belk 1737 Distribution Center" 
+            State="SC" ZipCode="29016">
+                <Extn ExtnMarkForStoreNo="00006"/>
+            </PersonInfoShipTo>
+            <LinePriceInfo UnitPrice="40.00"/>
+        </OrderLine>
+
+
+    </OrderLines>
+</Order>
